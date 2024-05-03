@@ -1,0 +1,45 @@
+{
+  "inventory": [
+    {
+      "purchaseDate": "2024-03-07",
+      "unit": "kilo",
+      "quantity": 2,
+      "name": "apple",
+      "id": 1,
+      "type": "perishable",
+      "storageConditions": [
+        "pantry"
+      ],
+      "expirationDate": "2024-03-six",
+      "status": "unopened"
+    },
+    {
+      "purchaseDate": "2024-03-07",
+      "unit": "bag",
+      "quantity": 1,
+      "name": "orange",
+      "id": 2,
+      "type": "perishable",
+      "storageConditions": [
+        "pantry",
+        "fridge"
+      ],
+      "expirationDate": "2024-03-10",
+      "status": "unopened"
+    },
+    {
+      "purchaseDate": "2024-03-07",
+      "unit": "lb",
+      "quantity":2,
+      "name": "beef",
+      "id": 3,
+      "type": "perishable",
+      "storageConditions": [
+        "pantry",
+        "freezer"
+      ],
+      "expirationDate": "2024-03-10",
+      "status": "unopened"
+    }
+  ]
+}

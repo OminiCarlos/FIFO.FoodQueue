@@ -1,0 +1,70 @@
+{"inventory": [
+    {
+        "purchaseDate": "2023-12-31",
+        "unit": "kg",
+        "quantity": 1,
+        "name": "noodle",
+        "id": 1,
+        "type": "non-perishable",
+        "storageConditions": ["pantry"],
+        "expirationDate": "2024-03-30",
+        "status": "unopened"
+    },
+    {
+        "purchaseDate": "2023-12-31",
+        "unit": "each",
+        "quantity": 11,
+        "name": "Wings",
+        "id": 3,
+        "type": "perishable",
+        "storageConditions": [
+            "freezer",
+            "fridge"
+        ],
+        "expirationDate": "2024-01-31",
+        "status": "unopened"
+    },
+    {
+        "purchaseDate": "2023-12-31",
+        "unit": "kg",
+        "quantity": 1.2,
+        "name": "banana",
+        "id": 4,
+        "type": "perishable",
+        "storageConditions": [
+            "pantry",
+            "fridge"
+        ],
+        "expirationDate": "2024-01-04",
+        "status": "unopened"
+    },
+    {
+        "purchaseDate": "2023-12-31",
+        "unit": "eggs",
+        "quantity": 2,
+        "name": "Chicken",
+        "id": 2,
+        "type": "perishable",
+        "storageConditions": [
+            "pantry",
+            "fridge"
+        ],
+        "expirationDate": "2024-01-04",
+        "status": "unopened"
+    },
+    {
+        "purchaseDate": "2023-12-31",
+        "unit": "box",
+        "quantity": 13,
+        "name": "ice cream",
+        "id": 5,
+        "type": "perishable",
+        "storageConditions": [
+            "freezer",
+            "pantry",
+            "freezer"
+        ],
+        "expirationDate": "2024-01-31",
+        "status": "unopened"
+    }
+]}
